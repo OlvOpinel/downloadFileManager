@@ -1,0 +1,4 @@
+.venv
+cmd.txt
+stderr.log
+stdout.log
